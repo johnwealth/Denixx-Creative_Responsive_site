@@ -37,9 +37,9 @@ To get started with this project, follow these steps:
 
 This project was made possible by the contributions of the following individuals:
 
-- **Osadebe Awele**
-- **Osadebe Courage**
-- **Alisigwe E. Samuel**
+- **Osadebe Awele** aweleosadebe07@gmail.com
+- **Osadebe Courage** osadebeekene07@gmail.com
+- **Alisigwe E. Samuel** samuelalisigwe22@gmail.com
 
 Thank you for your valuable contributions to the DenixxCreative Responsive Site project!
 
