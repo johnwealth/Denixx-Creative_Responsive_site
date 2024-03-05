@@ -49,7 +49,7 @@ If you'd like to contribute to this project, you can fork the repository, make y
 
 ## License
 
-This project is licensed under the MIT License. contact samuelalisigwe@gmail.com for more details.
+This project is licensed under the MIT License. contact samuelalisigwe@gmail.com, aweleosadebe07@gmail.com, osadebeekene07@gmail.com for more details.
 
 ## Acknowledgments
 Feel free to customize this README to fit the specific details and requirements of the DenixxCreative Responsive Site project. Happy coding!
