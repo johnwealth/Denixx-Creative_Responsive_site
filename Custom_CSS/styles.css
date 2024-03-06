@@ -1,6 +1,6 @@
 * {
-    margin: 0;
-    padding: 0;
+    margin: 0px;
+    padding: 0px;
     font-family: "Poppins", sans-serif;
     line-height: 1;
 }
@@ -11,6 +11,10 @@ footer {
     display: block;
 }
 
+section {
+    display: block;
+}
+
 .header {
     width: 100%;
     position: fixed;
@@ -18,7 +22,7 @@ footer {
 }
 
 nav {
-    padding: 1.5% 11%;
+    padding: 2% 11%;
     display: flex;
     align-items: center;
 }
@@ -44,6 +48,7 @@ nav img {
     font-weight: 400;
     letter-spacing: 0;
     word-spacing: 0;
+    padding-top: 5px;
 }
 
 .nav-links ul li a {
@@ -55,7 +60,7 @@ nav img {
 .nav-links ul li::after {
     content: '';
     width: 0%;
-    height: 2px;
+    height: 1px;
     background: #a3e3db;
     display: block;
     margin: auto;
@@ -66,13 +71,52 @@ nav img {
     width: 100%;
 }
 
+.nav-links li.dropdownIcon {
+    display: none;
+}
 
-@media(max-width: 767px) {
+
+/*############ MOBILE RESPONSIVE ################*/
+
+@media screen and (max-width: 970px) {
     nav {
-        padding: 1% 6%;
+        padding: 3.5% 6%;
     }
 
     nav img {
         width: 37%;
+    }
+
+    .nav-links ul li {
+        display: none;
+        /* font-size: 20px; */
+    }
+
+    .nav-links li.dropdownIcon {
+        display: block;
+    }
+
+    .nav-links ul li:hover::after {
+        width: 50%;
+    }
+
+    /* ul.top-nav.responsive li.dropdownIcon {
+        position: absolute;
+        top: 0;
+        right: 0;
+    } */
+
+    ul.top-nav.responsive {
+        position: relative;
+    }
+
+    ul.top-nav.responsive li {
+        display: inline;
+        float: none;
+    }
+
+    ul.top-nav.responsive li a {
+        display: block;
+        /* text-align: left; */
     }
 }
