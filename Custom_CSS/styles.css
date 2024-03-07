@@ -1,3 +1,237 @@
 .navbar-brand img {
     width: 20%;
 }
+
+
+
+.banner img{
+    background-position: center;
+}
+
+.maintxt_innner h1{
+    font-size: 43px;
+    color: red;
+    position: absolute;
+ 
+}
+
+.maintxt_inner{
+    flex-wrap: var(--flex-wrap);
+    justify-content: var(--justify-content);
+    align-items: var(--align-items);
+    align-content: var(--align-content);
+    flex-basis: auto;
+    flex-grow: 1;
+    flex-shrink: 1;
+    align-self: auto;
+}
+
+.maintxt_inner_elements{
+    max-width: 100%;
+}
+
+
+.second_section_img{
+    position: absolute;
+    /* padding-right: 5em; */
+    width: 35%;
+  
+}
+
+.second_section_img img{
+    border-radius:  17px 17px 17px 17px;
+ 
+    flex-direction: var(--flex-direction)
+
+    
+}
+
+.part_one_form{
+ 
+    margin: 61px 0 0;
+    padding: 0 83.1875px;
+    display: flex;
+    flex-direction: column;
+    /* margin-left: 83.1875px; */
+    /* width: 65%; */
+   display: flex;
+    gap: 1px;
+
+    margin-right: 25%;
+    margin-bottom: 10%;
+    margin-left: 0%;
+    overflow: visible;
+    background-color: white;
+}
+
+.form-header{
+
+    width: 65%;
+
+}
+
+.form-header_content .txt{
+    color: #1C244B;
+
+    font-size: 48px;
+    font-weight: 700;
+    text-transform: capitalize;
+
+    text-decoration: none
+}
+
+.txt_sub_content{
+    padding-bottom: 7%;
+}
+
+.txt_sub_content p{
+    margin-top:0 ;
+    margin-bottom: 0.9rem;
+    font-size: 19px;
+    font-weight: 400;
+}
+
+.form{
+    max-width: 100%;
+}
+.form_container{
+    height: 100%;
+}
+
+.form_content{
+    margin-bottom: 20px;
+    padding-left: 15px;
+   
+}
+
+.form_content label{
+    font-size: 16px;
+    color: #1C244B;
+}
+
+.form_content input{
+    border-color: #C8D5DC;
+    display: block;
+    /* border: none; */
+     border-width: 0px 0px 1px 0px;
+    border-radius: 0px 0px 0px 0px;; 
+}
+
+textarea{
+    border-width: 0px 0px 1px 0px;
+    border-radius: 0px 0px 0px 0px;
+    border-color: #C8D5DC;
+    display: block;
+}
+
+.form_button_house{
+    padding-top: 20px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-bottom: 20px;
+   
+}
+
+.button {
+    background-color: var(--e-global-color-4ba3408);
+    color: white;
+    background-color:rgb(8, 125, 108) ;
+    border-color: var(--e-global-color-4ba3408);
+    width: 25%;
+    height: 45px;
+    font-size: 16px;
+    
+    border-radius: 20px;
+}
+
+.part_one_form{
+
+    /* display: flex; */
+    flex-direction: var(--flex-direction);
+    /* flex-direction: var(--flex-direction); */
+}
+
+.testimonial{
+    width: 95%;
+    margin-top: 13%;
+    margin-right: 0%;
+    margin-bottom: 0%;
+    margin-left: 0%;
+    padding-top: 0%;
+    padding-right: 5%;
+    padding-bottom: 13%;
+    padding-left: 5%;
+    gap: 39px;
+    flex-direction: column;
+    padding-top: 10em;
+    
+}
+
+.testimonial_inner h2{
+
+    color: #222222;
+    font-family: "Poppins", Sans-serif;
+    font-size: 42px;
+    font-weight: 500;
+    text-transform: none;
+    font-style: normal;
+    text-decoration: none;
+    line-height: 1.2em;
+    letter-spacing: -2px;
+    word-spacing: 0em;
+    padding-bottom: 80px;
+        
+}
+
+.testimony_section{
+     display: flex;
+    gap: 78px;
+    /* flex-direction:var(--flex-direction); */
+}
+
+.testimonial_one{
+    text-align: left;
+
+    /* -flex-direction: column;/ */
+    /* --container-widget-width: 100%; */
+    /* --container-widget-height: initial;
+    --container-widget-flex-grow: 0;
+    --container-widget-align-self: initial; */
+    /* --justify-content: flex-start;
+    --gap: 60px;
+    --padding-top: 0%;
+    --padding-right: 15%;
+    --padding-bottom: 0%;
+    --padding-left: 0%; */
+   
+                        
+}
+
+.testimonal_conten{
+    font-size: 17px;
+     width: 63px;
+    height:63px ;
+    flex-direction: column;
+
+}
+
+.testimonial_img img{
+   width: 63px;
+   height: 63px;
+   border-radius: 50px 50px 50px 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* .maintxt {position: relative;}
+.maintxt  img{
+.overlay-text {position: absolute;}
+} *
