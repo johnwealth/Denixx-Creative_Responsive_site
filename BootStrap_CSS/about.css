@@ -25,13 +25,78 @@
     background: #f44336;
 }
 
-.first_head{
-    margin-left: 100px;
-    /* text-align: left; */
-    margin-top: 70px;
-}
 
-.first_head h1{
-    font-size: 60px;
-    margin-bottom: 30px;
-}
+.custom-margin {
+    margin-top: 3rem;
+    color: black;
+    margin-left: 20px; /* You can adjust the margin as per your requirement */
+  }
+
+  .col-md-6 h1{
+    color: black;
+    margin-top: 10%;
+    font-size: 4em;
+    font-weight: 600;
+  }
+
+  .custom-image {
+    /* width: 100%; */
+    max-width: 100%;
+    height: 90%; /* Adjust the height as needed */
+  }
+  .btn-success{
+    text-align: center;
+
+  }
+  
+  .card-sec{
+    height: 33em;
+    background-color: #028374;
+  }
+  .card-sec h1 ,p ,button{
+    color: #A3E3DB;
+    margin-left: 100px;
+  }
+  .card-sec p{
+    font-size: 15 px;
+  }
+  .card-sec button{
+    background-color: white;
+    color: #028374;
+    margin-top: 70px;
+    text-align: center;
+    margin-left: 100px;
+    width: 250px;
+    height: 70px;
+    border-radius: 50px;
+
+  }
+  .card-sec button:hover{
+    background-color: #A3E3DB;
+    color: #028374;
+    text-decoration: underline;
+  }
+  .col-md p, h1, button{
+    margin-left: 100px;
+    color: #A3E3DB;
+  }
+  footer{
+    background-color: #028374;
+    height: 50px;
+    padding-top: 10px;
+  }
+  footer p{
+    color: gold;
+    margin-left: 100px;
+  }
+  footer a{
+    /* margin-right: 100px; */
+    color: black;
+  }
+  footer a:hover{
+    color: pink;
+    text-decoration: overline;
+  }
+  .footer12{
+    margin-right: 100px;
+  }
