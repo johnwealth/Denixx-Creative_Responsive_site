@@ -37,9 +37,9 @@ To get started with this project, follow these steps:
 
 This project was made possible by the contributions of the following individuals:
 
-- **Osadebe Awele**
-- **Osadebe Courage**
-- **Alisigwe E. Samuel**
+- **Osadebe Awele** aweleosadebe07@gmail.com
+- **Osadebe Courage** osadebeekene07@gmail.com
+- **Alisigwe E. Samuel** samuelalisigwe22@gmail.com
 
 Thank you for your valuable contributions to the DenixxCreative Responsive Site project!
 
@@ -49,7 +49,7 @@ If you'd like to contribute to this project, you can fork the repository, make y
 
 ## License
 
-This project is licensed under the MIT License. contact samuelalisigwe@gmail.com for more details.
+This project is licensed under the MIT License. contact samuelalisigwe@gmail.com, aweleosadebe07@gmail.com, osadebeekene07@gmail.com for more details.
 
 ## Acknowledgments
 Feel free to customize this README to fit the specific details and requirements of the DenixxCreative Responsive Site project. Happy coding!
